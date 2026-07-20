@@ -1,4 +1,13 @@
 Date: Mon, 20 Jul 2026 16:13:15 +0000
+Origin: AJLinux
+Label: AJLinux
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: AJLinux APT Repository
+Date: Mon, 20 Jul 2026 16:13:15 +0000
 MD5Sum:
  46ea36f1bf11c097e49de252201f306f               38 Release
  6e5ba4c641b3a9f113b9da62e3b22ce8              427 main/binary-amd64/Packages
