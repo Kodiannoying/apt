@@ -12,3 +12,16 @@ Priority: optional
 Description: AJLinux system information utility
  A small utility that displays system information.
 
+Package: notes
+Version: 1.0
+Architecture: amd64
+Maintainer: Arthur <arthur2ki@outlook.com>
+Filename: pool/main/notes.deb
+Size: 3500
+MD5sum: 34f513351fa0738d0e307fbd2715eca1
+SHA1: a2cb4b38e724a9f2ddb5b8ab853a042b91a27d03
+SHA256: 8c3625d7528c61ade5309758d8e0e185f40c74a5eaec572eece6ec5562e689d0
+Section: utils
+Priority: optional
+Description: Notes app
+
