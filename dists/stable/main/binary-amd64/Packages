@@ -1,0 +1,14 @@
+Package: ainfo
+Version: 1.0
+Architecture: amd64
+Maintainer: Arthur <arthur2ki@outlook.com>
+Filename: pool/main/ainfo.deb
+Size: 3904
+MD5sum: b086e145e515849ea70cde4fded31fe3
+SHA1: ded08fa6c38e2a4d7e5175ad05afa1ced70b3738
+SHA256: 4a17d973670798a7e1cdacb3db01d3ccdacd04bbc070b657f58df4c10b47351a
+Section: utils
+Priority: optional
+Description: AJLinux system information utility
+ A small utility that displays system information.
+
