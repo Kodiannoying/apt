@@ -2,6 +2,7 @@ Origin: AJLinux
 Label: AJLinux
 Suite: stable
 Codename: stable
+License: GPL-3.0
 Version: 1.0
 Architectures: amd64
 Components: main
