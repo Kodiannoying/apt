@@ -1,20 +1,44 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Mon, 20 Jul 2026 16:56:19 +0000
+Description: AJLinux APT Repository
+Label: AJLinux
+Origin: AJLinux
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 73681401b77924d8914c314036d7ce73              187 Release
+ 6e5ba4c641b3a9f113b9da62e3b22ce8              427 main/binary-amd64/Packages
+ 959aa6846602a0076198fd1b4070871f              327 main/binary-amd64/Packages.gz
+SHA1:
+ b0e697a8988478b742d14f46849a7428c6d0e189              187 Release
+ cba10bc8405ebeae52b1465322d23117685099aa              427 main/binary-amd64/Packages
+ e9a9b0ec5c8052d8db8a2e077b8e68a643d11b0b              327 main/binary-amd64/Packages.gz
+SHA256:
+ d6da59403c80a9a44245da3eaa1d58453139a4e38a6564662986dca226547269              187 Release
+ 55c6d2207fbebe54e305585c4d2a2ec799c64475cc2734cf218cfb14c21487f9              427 main/binary-amd64/Packages
+ c7ae7d9fa48098cb3503164dbc0695de05375c88e2d8ef6c0588646a41f919cc              327 main/binary-amd64/Packages.gz
+SHA512:
+ 589089c62bf03a2b340666b87ddd5e585a77fdfb37692e36995445a0f4206457197bcb1ec5ba83ea8117e22c772bcc98263738d20ab06d65be126c0877d8f553              187 Release
+ 94aa669d9b47dafeddc8193268fafa0424d87b6fed3ab9e5fa9ea0a3762fd7f46ca1e9661d82af0a3670bf4ef0acc34b37464cdfeba28a6771273ba67d4aba48              427 main/binary-amd64/Packages
+ 2da0d9f1c35e200bd1280da945b8560c69514acfe8666bd78a2ca87a007148b7163c7f15c10ac1d173e3910b6c5d12e39152d5f0760b3cba5f97466851046ea1              327 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEOw/rC04ET0Jw8cEyA0aQv4VTEf8FAmpeUgYACgkQA0aQv4VT
-Ef/iCw//UCffEdWORI5o6NqXQs0gumLoSOt5RFLHNIjOvFVcv3gUf4i8AHlxycs0
-IW0ZNCTpJn4qOK7lrv/bf4clCV2OfhQxRUfEw3EmX6lw8WnENxDlQZnixYiGKdhy
-0LuPk5vsZm6xEUrfjocKxoJpRkVhYnPh/pKx1gasEXkBiaBMpbs8KqgUgYU+gEmV
-8vitYahpcnBgoz/ccOBMw6gNgYdweSdsHf1YlxjbJ2PVPaGtsLSLLgZlgsEiZfXH
-Z4quRPJT/5vIG5C975/ywEB0dIONnHIjI1oosFaXENuQ0H7qn3XUV7PRVa1ykaau
-c1652WPIaogtNBjngnvhqo9SN/fic7UeLx0E1OIigyE0el9NaM3PJYnlcKBd3CAg
-D9EK+D2+7y5N/keC0EKuzDKbvxz+A0WL5MxVjCGBmYLWdC1QPWODx9ffThkTdY1E
-/pb6ZYTEeOT0vYQvKx64qSAgZ+opRPVrkf2HfHzYPueCG+nW5SEewzWOovLsbLQ8
-+Od08QElVx0aPrRMjuMAM5VohMWt0I99q+rn+1zzoq8tTvtIPTEMli/fVHOBgwmB
-ktz7j/QuPXhfYdgDeKIccABeCjGPkLExpsLiDypMYRJmrzsSBmwT0TP/Lt4brpX+
-ClJONQchB8bVvoand+P75bRwh9YrtPmYJrMhrnn8Dd3bFwH7alU=
-=UroO
+iQIzBAEBCgAdFiEEOw/rC04ET0Jw8cEyA0aQv4VTEf8FAmpeUz0ACgkQA0aQv4VT
+Ef+6iA//SVW1T+bYSe10ugawLMXqwNOR4alZ6pF5ht1GvaKPN30P3aTstb93Xc78
+01fh1/RM7ZC9jkdjegMCk8FnjNWD+ue+dmLwHs8FyZ8OCeDS9tjLvpFConc68Nu4
+VQoEN8gQYrpZvlOBR/oJTP0xub+f8Ia5z5v0tv7ZoJ7xSEmUu3DiaYN+M16oA92O
+JLzoXZpbLkdy8zO+3ox2uKQU4UYC9nuRoNEVEfrEzrYHK5nO6u17wyNGAKAJWh0x
+trhmrDBrywARrm7RR8xiH847fL/1iuTmrHSjajXHzJ8m26AtarelDBExQRkYe1DG
+7xG+TZgvoR6dJSGybjayTxbQl/9j6hmm7natZ36s8bYXB8pf7yGO6knXZteOg5vw
+cd0LOAaw9EVvmI+vuP3G63Qawm4JeUfC14zKExmzIXmLTC5+RkAugtAma8a0Hrz9
+QSZTTXJtBDXfnf3d5HZdbN5/39IVeIgMetP1a6DhahMoY0ePIgYjyTMkQV2/jwQL
+KIGGKb3+y+xqoKy/LFE1wGsMx+hSG7n0GGyfJeyXevs1GUbyXBO0a+/pcP20SpP6
+9PJeZM7qM3TgUNjLyQFju6FSXhbJ4i8f/o9qA0kwXUnGg6vADcks1gXUA2+MF16l
+p2zHCdopYVBKF9FuJDm/YgbgQhcgktYmTRjJqBkUgLHi1lbt3YE=
+=8Bt3
 -----END PGP SIGNATURE-----

@@ -1,0 +1,25 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Mon, 20 Jul 2026 16:56:19 +0000
+Description: AJLinux APT Repository
+Label: AJLinux
+Origin: AJLinux
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 73681401b77924d8914c314036d7ce73              187 Release
+ 6e5ba4c641b3a9f113b9da62e3b22ce8              427 main/binary-amd64/Packages
+ 959aa6846602a0076198fd1b4070871f              327 main/binary-amd64/Packages.gz
+SHA1:
+ b0e697a8988478b742d14f46849a7428c6d0e189              187 Release
+ cba10bc8405ebeae52b1465322d23117685099aa              427 main/binary-amd64/Packages
+ e9a9b0ec5c8052d8db8a2e077b8e68a643d11b0b              327 main/binary-amd64/Packages.gz
+SHA256:
+ d6da59403c80a9a44245da3eaa1d58453139a4e38a6564662986dca226547269              187 Release
+ 55c6d2207fbebe54e305585c4d2a2ec799c64475cc2734cf218cfb14c21487f9              427 main/binary-amd64/Packages
+ c7ae7d9fa48098cb3503164dbc0695de05375c88e2d8ef6c0588646a41f919cc              327 main/binary-amd64/Packages.gz
+SHA512:
+ 589089c62bf03a2b340666b87ddd5e585a77fdfb37692e36995445a0f4206457197bcb1ec5ba83ea8117e22c772bcc98263738d20ab06d65be126c0877d8f553              187 Release
+ 94aa669d9b47dafeddc8193268fafa0424d87b6fed3ab9e5fa9ea0a3762fd7f46ca1e9661d82af0a3670bf4ef0acc34b37464cdfeba28a6771273ba67d4aba48              427 main/binary-amd64/Packages
+ 2da0d9f1c35e200bd1280da945b8560c69514acfe8666bd78a2ca87a007148b7163c7f15c10ac1d173e3910b6c5d12e39152d5f0760b3cba5f97466851046ea1              327 main/binary-amd64/Packages.gz
